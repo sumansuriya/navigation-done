@@ -37,8 +37,7 @@ export const EmployeeTaskAssign = () => {
 
   return (
     <div
-      className="bg-transparent d-flex justify-content-center align-items-center "
-      style={{ height: "100vh" }}
+     
     >
        <div>
       <Navbar style={{"background-color":"black"}} bg="" variant="dark" expand="">
